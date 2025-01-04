@@ -1,7 +1,7 @@
 # Facturacion-Py
 Desarrollo para una veterinaria local de mi comunidad, esta es una versión con funcionalidades sin mostrar información de la veterinaria como empresa
 
-#Esta app la desarrolle basandome en una del canal Pildora de Programacion, adaptandola a las necesidades de mi cliente
+# Esta app la desarrolle basandome en una del canal Pildora de Programacion, adaptandola a las necesidades de mi cliente
 # Instrucciones para personalizar:
 
 #Scritps:
